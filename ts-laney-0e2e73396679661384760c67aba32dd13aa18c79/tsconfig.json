@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "strict": true,
+        "sourceMap": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "removeComments": true,
+        "noEmitOnError": true,
+        "rootDir": "./src",
+        "outDir": "build/"
+    }
+}
